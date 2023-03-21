@@ -12,7 +12,7 @@ updated_urls = []
 
 # Adicionar a URL completa antes de cada ocorrência, se ainda não foi atualizada
 for match in matches:
-    updated_url = 'https://uniipar.com/br' + match
+    updated_url = 'https://site.com/br' + match
     if updated_url not in updated_urls:
         html = html.replace(match, updated_url)
         updated_urls.append(updated_url)
