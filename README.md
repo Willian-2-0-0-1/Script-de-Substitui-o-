@@ -4,7 +4,7 @@ Objetivo desse script é Ajudar durante um Desenvolvimento WEB
 
 Muita das vezes programamos em Homologação usando a própria Raiz \img
 
-Mas as vezes precisamos acessar uma pasta atráves do nosso site  www.site.com\pasta\
+Mas as vezes precisamos mover nosso site para uma pasta  www.site.com\pasta\
 
 E é nessas horas onde tudo acaba bugando.
 
